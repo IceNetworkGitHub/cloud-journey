@@ -16,18 +16,19 @@ We have provided a sample Day Journey entry staring at 0. You can delete this ex
 
 ## Armanns's Cloud Journey
 
-[✍️ Introduce yourself]
 My name is Armann Jakob Palsson and I'm from Iceland. I'm 42 years old, married and a father of three awesome kids. :)
 I'm a fulltime Linux administrator for an amazing company here in Iceland.
 
 [✍️ Tell us why you started this challenge]
-I want to grow and mature in my carrer and become a well rounded professional and the next step in that journey is to
+
+I want to grow and mature in my carrer and become a well rounded professional and the next step in that journey is to become proficient at working with AWS cloud solutions.
 
 [✍️ Tell us where you want to be at the end of the challenge]
-I want to finish the three AWS associate degrees. 
 
-- [✍️ Link to your LinkedIn] https://www.linkedin.com/in/armann-palsson/
-- [✍️ Link to your Twitter] https://twitter.com/ArmannPalsson
+I want to finish the three AWS associate degrees. :) 
+
+- My LinkedIn, let's connect! https://www.linkedin.com/in/armann-palsson/
+- Add me on Twitter: https://twitter.com/ArmannPalsson
 
 ## Stepping out the door
 
