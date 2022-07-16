@@ -10,10 +10,6 @@
 5. Update your main README to link back to your Day Journey article
 4. If you need ideas go to [#100DaysOfCloudIdeas](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas)
 
-## How to use this template:
-Fill in your details where you see this icon ✍️
-We have provided a sample Day Journey entry staring at 0. You can delete this example.
-
 ## Armanns's Cloud Journey
 
 My name is Armann Jakob Palsson and I'm from Iceland. I'm 42 years old, married and a father of three awesome kids. :)
@@ -30,7 +26,7 @@ I want to finish the three AWS associate degrees. :)
 - My LinkedIn, let's connect! https://www.linkedin.com/in/armann-palsson/
 - Add me on Twitter: https://twitter.com/ArmannPalsson
 
-## Stepping out the door
+## My first 10 days - scary and stressful - can I do this consistently? 
 
 - [ ] ☁️ 1 > [My First Day](https://youtu.be/-5_gchxmdVc)
 - [ ] ☁️ 2 > [](Journey/002/Readme.md)
