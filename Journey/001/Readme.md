@@ -13,7 +13,7 @@ Before looking into cost effective solutions for databases, networks, storage, e
 
 ## Use Case
 
-Creating and maintaining cost effective solutions is something that will be the focus for any business in the cloud. It will be good for career if you have the ability to propose solid changes to management that will lower opex.
+Creating and maintaining cost effective solutions is something that will be the focus for any business in the cloud. It will be good for your career if you have the ability to propose solid changes to management that will lower opex.
 
 ## Cloud Research
 
