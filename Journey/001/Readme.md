@@ -5,7 +5,7 @@
 
 ## Introduction
 
-I looked at how to make solutions more cost effective. I did this by watching Chad Smith's video "AWS Certified Solutions Architect - Associate (SAA-C02)" on learning.oreilly.com.
+I looked at how to make solutions more cost effective. I did this by watching Chad Smith's video "AWS Certified Solutions Architect - Associate (SAA-C02)" on https://learning.oreilly.com.
 
 ## Prerequisite
 
@@ -34,5 +34,5 @@ https://docs.aws.amazon.com/wellarchitected/latest/framework/wellarchitected-fra
 
 ## Social Proof
 
-[link]https://www.linkedin.com/feed/update/urn:li:activity:6954210858663088128/
-(link)
+https://www.linkedin.com/feed/update/urn:li:activity:6954210858663088128/
+
