@@ -1,52 +1,38 @@
 **Add a cover photo like:**
 ![placeholder image](https://via.placeholder.com/1200x600)
 
-# New post title here
+# The journey begins.
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+I looked at how to make solutions more cost effective. I did this by watching Chad Smith's video "AWS Certified Solutions Architect - Associate (SAA-C02)" on learning.oreilly.com.
 
 ## Prerequisite
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+Before looking into cost effective solutions for databases, networks, storage, etc. I recommend that you know the name of the services and have a general idea of what they do. For instance, S3 infrequent access vs standard.
 
 ## Use Case
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+Creating and maintaining cost effective solutions is something that will be the focus for any business in the cloud. It will be good for career if you have the ability to propose solid changes to management that will lower opex.
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+Right now I'm in the beginning stages of learning about the topic. I will post pictures and ideas as I progress in my learning.
 
 ## Try yourself
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
+If you are already working in the cloud, maybe you have a DIY project or you work professionally in the cloud. I would encourage you to think outside the box and ask yourself, how can we do this differently, can we make changes that cut cost and would potentially increase our performance and availability?
 
 ## ☁️ Cloud Outcome
 
-✍️ (Result) Describe your personal outcome, and lessons learned.
+I learned from watching Chad Smith that there are a lot of options that can work but that does not mean that all options are equally good. He has two questions at the end of each chapter and I did learn a lot from him going over those questions and explaining why we have a best answer amongst 2-3 correct answers.
 
 ## Next Steps
 
-✍️ Describe what you think you think you want to do next.
+Next step is to read the AWS Well-Architected Framework.
+https://docs.aws.amazon.com/wellarchitected/latest/framework/wellarchitected-framework.pdf
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+[link]https://www.linkedin.com/feed/update/urn:li:activity:6954210858663088128/
+(link)
