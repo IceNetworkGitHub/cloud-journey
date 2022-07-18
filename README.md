@@ -29,7 +29,7 @@ I want to finish the three AWS associate degrees. :)
 ## My first 10 days - scary and stressful - can I do this consistently? 
 
 - [ ] ☁️ 1 > [My First Day](https://youtu.be/-5_gchxmdVc)
-- [ ] ☁️ 2 > [The cloud framework] (https://youtu.be/o1T_Xst_Bfg)
+- [ ] ☁️ 2 > [The cloud framework](https://youtu.be/o1T_Xst_Bfg)
 - [ ] ☁️ 3 > [](Journey/003/Readme.md)
 - [ ] ☁️ 4 > [](Journey/004/Readme.md)
 - [ ] ☁️ 5 > [](Journey/005/Readme.md)
