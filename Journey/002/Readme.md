@@ -21,5 +21,7 @@ I will continue to study the Well Architected Framework for day 3. I'm also goin
 ## Social Proof
 
 My YouTube video: https://youtu.be/o1T_Xst_Bfg
+
 Twitter post: https://twitter.com/ArmannPalsson/status/1548796557054676993
+
 LinkedIn post: https://www.linkedin.com/feed/update/urn:li:activity:6954567485245304833/
