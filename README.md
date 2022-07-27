@@ -32,12 +32,12 @@ I want to finish the three AWS associate degrees. :)
 - [X] ☁️ 2 > [The cloud framework](https://youtu.be/o1T_Xst_Bfg)
 - [X] ☁️ 3 > [How I study](https://youtu.be/WUtYcrMxMFM)
 - [X] ☁️ 4 > [AWS CLI](https://youtu.be/0Ehxb2PC5s8)
-- [ ] ☁️ 5 > [](Journey/005/Readme.md)
-- [ ] ☁️ 6 > [](Journey/006/Readme.md)
-- [ ] ☁️ 7 > [](Journey/007/Readme.md)
-- [ ] ☁️ 8 > [](Journey/008/Readme.md)
-- [ ] ☁️ 9 > [](Journey/009/Readme.md)
-- [ ] ☁️ 10 > [](Journey/010/Readme.md)
+- [X] ☁️ 5 > [https://youtu.be/e43tPalokmY]
+- [X] ☁️ 6 > [https://youtu.be/vdPolUA9hAk]
+- [X] ☁️ 7 > [https://youtu.be/P_zE99buNME]
+- [X] ☁️ 8 &9  > [https://youtu.be/JK0zsaLoZ0M]
+- [X] ☁️ 10 & 11 > [https://youtu.be/3SLLZEmyorE]
+- [] ☁️ 10 > [](Journey/010/Readme.md)
 
 ## Walking down the road
 
