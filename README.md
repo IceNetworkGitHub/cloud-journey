@@ -34,7 +34,7 @@ I want to finish the three AWS associate degrees. :)
 - [X] ☁️ 4 > [AWS CLI](https://youtu.be/0Ehxb2PC5s8)
 - [X] ☁️ 5 > [AWS CLI Day 2](https://youtu.be/e43tPalokmY)
 - [X] ☁️ 6 > [Benefits!](https://youtu.be/vdPolUA9hAk)
-- [X] ☁️ 7 > [https://youtu.be/P_zE99buNME]
+- [X] ☁️ 7 > [Hard Days](https://youtu.be/P_zE99buNME)
 - [X] ☁️ 8 &9  > [https://youtu.be/JK0zsaLoZ0M]
 - [X] ☁️ 10 & 11 > [https://youtu.be/3SLLZEmyorE]
 - [] ☁️ 10 > [](Journey/010/Readme.md)
