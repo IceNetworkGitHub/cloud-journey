@@ -37,11 +37,9 @@ I want to finish the three AWS associate degrees. :)
 - [X] ☁️ 7 > [Hard Days](https://youtu.be/P_zE99buNME)
 - [X] ☁️ 8 &9  > [VPC Hands On](https://youtu.be/JK0zsaLoZ0M)
 - [X] ☁️ 10 & 11 > [Feeling slow?](https://youtu.be/3SLLZEmyorE)
-- [] ☁️ 10 > [](Journey/010/Readme.md)
 
 ## Walking down the road
 
-- [ ] ☁️ 11 > [](Journey/011/Readme.md)
 - [ ] ☁️ 12 > [](Journey/012/Readme.md)
 - [ ] ☁️ 13 > [](Journey/013/Readme.md)
 - [ ] ☁️ 14 > [](Journey/014/Readme.md)
