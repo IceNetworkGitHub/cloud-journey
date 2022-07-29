@@ -40,7 +40,7 @@ I want to finish the three AWS associate degrees. :)
 
 ## Walking down the road
 
-- [ ] ☁️ 12 > [](Journey/012/Readme.md)
+- [X] ☁️ 12  & 13> [Networking](https://youtu.be/yq14Vvnif84)
 - [ ] ☁️ 13 > [](Journey/013/Readme.md)
 - [ ] ☁️ 14 > [](Journey/014/Readme.md)
 - [ ] ☁️ 15 > [](Journey/015/Readme.md)
