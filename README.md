@@ -41,11 +41,7 @@ I want to finish the three AWS associate degrees. :)
 ## Walking down the road
 
 - [X] ☁️ 12  & 13> [Networking](https://youtu.be/yq14Vvnif84)
-- [ ] ☁️ 13 > [](Journey/013/Readme.md)
-- [ ] ☁️ 14 > [](Journey/014/Readme.md)
-- [ ] ☁️ 15 > [](Journey/015/Readme.md)
-- [ ] ☁️ 16 > [](Journey/016/Readme.md)
-- [ ] ☁️ 17 > [](Journey/017/Readme.md)
+- [X] ☁️ 17 > [Study Tips](https://youtu.be/Ck8-occzCtY)
 - [ ] ☁️ 18 > [](Journey/018/Readme.md)
 - [ ] ☁️ 19 > [](Journey/019/Readme.md)
 - [ ] ☁️ 20 > [](Journey/020/Readme.md)
