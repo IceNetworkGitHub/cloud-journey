@@ -37,13 +37,10 @@ I want to finish the three AWS associate degrees. :)
 - [X] ☁️ 7 > [Hard Days](https://youtu.be/P_zE99buNME)
 - [X] ☁️ 8 &9  > [VPC Hands On](https://youtu.be/JK0zsaLoZ0M)
 - [X] ☁️ 10 & 11 > [Feeling slow?](https://youtu.be/3SLLZEmyorE)
-
-## Walking down the road
-
 - [X] ☁️ 12  & 13> [Networking](https://youtu.be/yq14Vvnif84)
 - [X] ☁️ 17 > [Study Tips](https://youtu.be/Ck8-occzCtY)
-- [ ] ☁️ 18 > [](Journey/018/Readme.md)
-- [ ] ☁️ 19 > [](Journey/019/Readme.md)
+- [X] ☁️ 29 > [This sucks!](https://youtu.be/4YPuzkoUvpU)
+- [X] ☁️ 46 > [Solutions Architect Associate done!](https://youtu.be/epvyWKHwU3c)
 - [ ] ☁️ 20 > [](Journey/020/Readme.md)
 
 ## Crossing the bridge
